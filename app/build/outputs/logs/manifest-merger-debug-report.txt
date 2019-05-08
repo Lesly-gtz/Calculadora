@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\3a3fef533a3f44a3814b3f65ad8e1134\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\4eca148317991f2f8192ed1c779897a5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\3b3fbdfddeb3b4156cb2b9499ac6ed9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\52a90be7f43af49f30637bdfd52e51df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\1059833256dea5bcc5827c6097bfe9e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\1b65bfd31cc63d059fde3d047195902b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\31fab363139a8dc38bf221db04245784\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\b990bdade0b2fccb156e57851c9b892a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\bb8ba7c33ce0ffa57c26a5e665ee18ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\bd0d95646d4a9f3927df639390715e70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\3d4b54febca41d251a6f3625be19bed5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\779a5e8b117909571a5cc422a4d65bfd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\a11db0d980aac24ef8c962be153d94e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\0f8292c94368b75dc32d58a66a7cbf07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\99e9e62850c7d6b18f3d5c344f27aa18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\9f4acc3675fb55c8c526f7937a4ce447\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\69ddc4de60956b38c3448c1595892020\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\82262fedc27072af0d7d3d06285d8420\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\cd8c2dfabb2cf856397c676e55a712af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\e856f6d4a24c54cce088e1e3cec73f4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\e20469a2fab4f296a7b08a3ea4de8074\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\d75a9e8bcf475c1572ad322f0ab41678\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\7dee7830f245b72b6911357f73ca7cbc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\3e182cc0f65b7bee4f88370f1b3b6dbf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\ddf3c38e02fa355a3450bb09d1f1b189\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\a8455c4235e612328c8b975ff66ea8a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\afc5d02e763594e238677ef89206f4dc\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\4eca148317991f2f8192ed1c779897a5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\4eca148317991f2f8192ed1c779897a5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\9f4acc3675fb55c8c526f7937a4ce447\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\9f4acc3675fb55c8c526f7937a4ce447\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\69ddc4de60956b38c3448c1595892020\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\69ddc4de60956b38c3448c1595892020\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\9f4acc3675fb55c8c526f7937a4ce447\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:11:9-40
+activity#app.calculadora.MainActivity
+ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\3a3fef533a3f44a3814b3f65ad8e1134\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\3a3fef533a3f44a3814b3f65ad8e1134\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\4eca148317991f2f8192ed1c779897a5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\4eca148317991f2f8192ed1c779897a5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\3b3fbdfddeb3b4156cb2b9499ac6ed9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\3b3fbdfddeb3b4156cb2b9499ac6ed9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\52a90be7f43af49f30637bdfd52e51df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\52a90be7f43af49f30637bdfd52e51df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\1059833256dea5bcc5827c6097bfe9e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\1059833256dea5bcc5827c6097bfe9e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\1b65bfd31cc63d059fde3d047195902b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\1b65bfd31cc63d059fde3d047195902b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\31fab363139a8dc38bf221db04245784\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\31fab363139a8dc38bf221db04245784\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\b990bdade0b2fccb156e57851c9b892a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\b990bdade0b2fccb156e57851c9b892a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\bb8ba7c33ce0ffa57c26a5e665ee18ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\bb8ba7c33ce0ffa57c26a5e665ee18ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\bd0d95646d4a9f3927df639390715e70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\bd0d95646d4a9f3927df639390715e70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\3d4b54febca41d251a6f3625be19bed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\3d4b54febca41d251a6f3625be19bed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\779a5e8b117909571a5cc422a4d65bfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\779a5e8b117909571a5cc422a4d65bfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\a11db0d980aac24ef8c962be153d94e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\a11db0d980aac24ef8c962be153d94e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\0f8292c94368b75dc32d58a66a7cbf07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\0f8292c94368b75dc32d58a66a7cbf07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\99e9e62850c7d6b18f3d5c344f27aa18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\99e9e62850c7d6b18f3d5c344f27aa18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\9f4acc3675fb55c8c526f7937a4ce447\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\9f4acc3675fb55c8c526f7937a4ce447\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\69ddc4de60956b38c3448c1595892020\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\69ddc4de60956b38c3448c1595892020\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\82262fedc27072af0d7d3d06285d8420\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\82262fedc27072af0d7d3d06285d8420\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\cd8c2dfabb2cf856397c676e55a712af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\cd8c2dfabb2cf856397c676e55a712af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\e856f6d4a24c54cce088e1e3cec73f4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\e856f6d4a24c54cce088e1e3cec73f4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\e20469a2fab4f296a7b08a3ea4de8074\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\e20469a2fab4f296a7b08a3ea4de8074\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\d75a9e8bcf475c1572ad322f0ab41678\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\d75a9e8bcf475c1572ad322f0ab41678\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\7dee7830f245b72b6911357f73ca7cbc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\7dee7830f245b72b6911357f73ca7cbc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\3e182cc0f65b7bee4f88370f1b3b6dbf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\3e182cc0f65b7bee4f88370f1b3b6dbf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\ddf3c38e02fa355a3450bb09d1f1b189\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\ddf3c38e02fa355a3450bb09d1f1b189\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\a8455c4235e612328c8b975ff66ea8a5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\a8455c4235e612328c8b975ff66ea8a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\afc5d02e763594e238677ef89206f4dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Lesly\.gradle\caches\transforms-2\files-2.1\afc5d02e763594e238677ef89206f4dc\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lesly\AndroidStudioProjects\Calculadora\app\src\main\AndroidManifest.xml
